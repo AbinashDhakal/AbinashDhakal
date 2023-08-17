@@ -41,10 +41,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a> </p>
 
-[![Abinash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbinashDhakal&&theme=xcode)](https://github.com/AbinashDhakal)
+[![Abinash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbinashDhakal&theme=xcode)](https://github.com/AbinashDhakal)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbinashDhakal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbinashDhakal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbinashDhakal&show_icons=true&locale=en&theme=tokyonight" alt="AbinashDhakal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbinashDhakal&&theme=tokyon
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbinashDhakal&theme=tokyonight" alt="AbinashDhakal" /></p>
