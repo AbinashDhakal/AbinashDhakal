@@ -1,7 +1,14 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://AbinashDhakal.io)
+<p align="center">
+  <a href="https://AbinashDhakal.io">
+    <img src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif" alt="MasterHead" width="700">
+  </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Abinash Dhakal</h1>
-<h3 align="center">Bringing Analytical Expertise and Problem-Solving to Data Exploration</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Bringing Analytical Expertise and Problem-Solving to Data Exploration </h3>
+<img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbinashDhakal&label=Profile%20views&color=0e75b6&style=flat" alt="AbinashDhakal" /> </p>
 
