@@ -48,7 +48,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a> </p>
 
-[![Abinash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbinashDhakal&theme=xcode)](https://github.com/AbinashDhakal)
+## 📈 GitHub Statistics
 
+<img src="https://github-readme-stats.vercel.app/api?username=AbinashDhakal&show_icons=true&theme=react" alt="github stats" width="48%" align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbinashDhakal&theme=tokyonight" alt="AbinashDhakal" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinashDhakal&theme=react" width="48%" >
+
+<br>
+
+[![Abinash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbinashDhakal&theme=react)](https://github.com/AbinashDhakal/github-readme-activity-graph)
+
+<a href="https://github.com/AbinashDhakal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinashDhakal&theme=react&layout=compact&">
+</a>
